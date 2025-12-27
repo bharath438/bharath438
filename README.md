@@ -11,6 +11,10 @@
 ![](https://github-readme-stats.vercel.app/api?username=bharath438&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=bharath438&theme=transparent&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bharath438&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## 📊 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=bharath438&theme=radical&no-frame=false&no-bg=false&margin-w=4)
