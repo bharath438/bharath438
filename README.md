@@ -13,7 +13,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bharath438&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ## 📊 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bharath438&layout=compact&theme=tokyonight)
 
 
 ## 🏆 GitHub Trophies
