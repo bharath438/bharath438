@@ -1,4 +1,5 @@
-# 💫 About Me:
+# Hi, I'm BHARATH N🐉
+
 🔭 I’m currently working on  <br>AI-powered applications, full-stack web projects, and real-world problem-solving systems using modern technologies.<br><br>👯 I’m looking to collaborate on  <br>AI/ML projects, data science applications, computer vision, and full-stack development for hackathons or open-source.<br><br>🤝 I’m looking for help with  <br>Improving model performance, scalable system architecture, deployment strategies, and production-level best practices.<br><br>🌱 I’m currently learning  <br>Deep learning, advanced data science techniques, cloud deployment, and system design.<br><br>💬 Ask me about  <br>Python, AI & ML, full-stack development, Streamlit apps, hackathon projects, and project documentation.<br><br>⚡ Fun fact  <br>I love transforming college projects into polished, real-world applications 🚀<br>
 
 
